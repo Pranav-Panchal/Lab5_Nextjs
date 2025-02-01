@@ -8,3 +8,7 @@
 - How to use Tailwind css
 - Routing in Nextjs
 - Linking Pages
+- Pagination
+- Searching
+- loading
+- deploying
